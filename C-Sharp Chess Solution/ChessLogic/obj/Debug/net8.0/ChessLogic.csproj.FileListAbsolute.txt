@@ -1,0 +1,11 @@
+C:\Users\Gabriel Kuek\Desktop\Side Stuff\C-Sharp-Chess\C-Sharp Chess Solution\ChessLogic\bin\Debug\net8.0\ChessLogic.deps.json
+C:\Users\Gabriel Kuek\Desktop\Side Stuff\C-Sharp-Chess\C-Sharp Chess Solution\ChessLogic\bin\Debug\net8.0\ChessLogic.dll
+C:\Users\Gabriel Kuek\Desktop\Side Stuff\C-Sharp-Chess\C-Sharp Chess Solution\ChessLogic\bin\Debug\net8.0\ChessLogic.pdb
+C:\Users\Gabriel Kuek\Desktop\Side Stuff\C-Sharp-Chess\C-Sharp Chess Solution\ChessLogic\obj\Debug\net8.0\ChessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Kuek\Desktop\Side Stuff\C-Sharp-Chess\C-Sharp Chess Solution\ChessLogic\obj\Debug\net8.0\ChessLogic.AssemblyInfoInputs.cache
+C:\Users\Gabriel Kuek\Desktop\Side Stuff\C-Sharp-Chess\C-Sharp Chess Solution\ChessLogic\obj\Debug\net8.0\ChessLogic.AssemblyInfo.cs
+C:\Users\Gabriel Kuek\Desktop\Side Stuff\C-Sharp-Chess\C-Sharp Chess Solution\ChessLogic\obj\Debug\net8.0\ChessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Kuek\Desktop\Side Stuff\C-Sharp-Chess\C-Sharp Chess Solution\ChessLogic\obj\Debug\net8.0\ChessLogic.dll
+C:\Users\Gabriel Kuek\Desktop\Side Stuff\C-Sharp-Chess\C-Sharp Chess Solution\ChessLogic\obj\Debug\net8.0\refint\ChessLogic.dll
+C:\Users\Gabriel Kuek\Desktop\Side Stuff\C-Sharp-Chess\C-Sharp Chess Solution\ChessLogic\obj\Debug\net8.0\ChessLogic.pdb
+C:\Users\Gabriel Kuek\Desktop\Side Stuff\C-Sharp-Chess\C-Sharp Chess Solution\ChessLogic\obj\Debug\net8.0\ref\ChessLogic.dll
