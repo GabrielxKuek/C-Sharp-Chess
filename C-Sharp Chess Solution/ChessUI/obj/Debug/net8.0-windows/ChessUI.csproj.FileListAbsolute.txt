@@ -22,3 +22,4 @@ C:\Users\Gabriel Kuek\Desktop\Side Stuff\C-Sharp-Chess\C-Sharp Chess Solution\Ch
 C:\Users\Gabriel Kuek\Desktop\Side Stuff\C-Sharp-Chess\C-Sharp Chess Solution\ChessUI\obj\Debug\net8.0-windows\ChessUI.pdb
 C:\Users\Gabriel Kuek\Desktop\Side Stuff\C-Sharp-Chess\C-Sharp Chess Solution\ChessUI\obj\Debug\net8.0-windows\ChessUI.genruntimeconfig.cache
 C:\Users\Gabriel Kuek\Desktop\Side Stuff\C-Sharp-Chess\C-Sharp Chess Solution\ChessUI\obj\Debug\net8.0-windows\ref\ChessUI.dll
+C:\Users\Gabriel Kuek\Desktop\Side Stuff\C-Sharp-Chess\C-Sharp Chess Solution\ChessUI\obj\Debug\net8.0-windows\ChessUI.sourcelink.json

@@ -9,3 +9,4 @@ C:\Users\Gabriel Kuek\Desktop\Side Stuff\C-Sharp-Chess\C-Sharp Chess Solution\Ch
 C:\Users\Gabriel Kuek\Desktop\Side Stuff\C-Sharp-Chess\C-Sharp Chess Solution\ChessLogic\obj\Debug\net8.0\refint\ChessLogic.dll
 C:\Users\Gabriel Kuek\Desktop\Side Stuff\C-Sharp-Chess\C-Sharp Chess Solution\ChessLogic\obj\Debug\net8.0\ChessLogic.pdb
 C:\Users\Gabriel Kuek\Desktop\Side Stuff\C-Sharp-Chess\C-Sharp Chess Solution\ChessLogic\obj\Debug\net8.0\ref\ChessLogic.dll
+C:\Users\Gabriel Kuek\Desktop\Side Stuff\C-Sharp-Chess\C-Sharp Chess Solution\ChessLogic\obj\Debug\net8.0\ChessLogic.sourcelink.json
