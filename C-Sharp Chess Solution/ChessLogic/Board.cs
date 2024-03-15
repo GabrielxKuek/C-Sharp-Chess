@@ -52,7 +52,7 @@ namespace ChessLogic
 
             for (int c = 0; c < 8; c++)
             {
-                this[1, c] = new Pawn(Player.White);
+                this[1, c] = new Pawn(Player.Black);
                 this[6, c] = new Pawn(Player.White);
             }
         }
